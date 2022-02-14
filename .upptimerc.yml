@@ -44,6 +44,8 @@ status-website:
     color: rgb(255, 255, 255);
   }
   "
+workflowSchedule:
+  graphs: "0 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
