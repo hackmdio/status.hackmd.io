@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 780,
-    "timeWeek": 792,
-    "timeMonth": 792,
-    "timeYear": 792,
+    "time": 794,
+    "timeDay": 783,
+    "timeWeek": 794,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://api.hackmd.io/v1/ping",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1456,
-    "timeDay": 1587,
-    "timeWeek": 1456,
-    "timeMonth": 1456,
-    "timeYear": 1456,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1398,
+    "timeDay": 1508,
+    "timeWeek": 1398,
+    "timeMonth": 1398,
+    "timeYear": 1398,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 2
     }
   }
 ]
