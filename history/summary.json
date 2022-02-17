@@ -40,18 +40,19 @@
     "url": "https://api.hackmd.io/v1/ping",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2419,
-    "timeDay": 2556,
-    "timeWeek": 2419,
-    "timeMonth": 2419,
-    "timeYear": 2419,
+    "time": 2478,
+    "timeDay": 2683,
+    "timeWeek": 2478,
+    "timeMonth": 2478,
+    "timeYear": 2478,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-02-15": 2
     }
   }
