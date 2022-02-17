@@ -10,7 +10,7 @@ sites:
     url: https://hackmd.io/realtime-reg/statusAll
     icon: https://hackmd.io/favicon.png
   - name: HackMD API
-    url: https://api.hackmd.io/v1/ping
+    url: https://api.hackmd.io/health
     icon: https://hackmd.io/favicon.png
 
 status-website:
