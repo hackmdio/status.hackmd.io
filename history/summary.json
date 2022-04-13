@@ -13,7 +13,7 @@
     "time": 787,
     "timeDay": 782,
     "timeWeek": 818,
-    "timeMonth": 779,
+    "timeMonth": 778,
     "timeYear": 787,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2438,
-    "timeDay": 2101,
-    "timeWeek": 2289,
-    "timeMonth": 2377,
-    "timeYear": 2438,
+    "time": 2440,
+    "timeDay": 2318,
+    "timeWeek": 2319,
+    "timeMonth": 2384,
+    "timeYear": 2440,
     "dailyMinutesDown": {
       "2022-02-17": 29,
       "2022-02-15": 2
