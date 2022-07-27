@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 789,
-    "timeDay": 777,
-    "timeWeek": 748,
-    "timeMonth": 749,
+    "timeDay": 791,
+    "timeWeek": 750,
+    "timeMonth": 748,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2022-06-30": 7,
@@ -28,18 +28,20 @@
     "url": "https://hackmd.io/realtime-reg/statusAll",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 146,
-    "timeWeek": 141,
+    "timeDay": 149,
+    "timeWeek": 142,
     "timeMonth": 141,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "HackMD API",
@@ -53,8 +55,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 2338,
-    "timeDay": 1733,
-    "timeWeek": 2499,
+    "timeDay": 1745,
+    "timeWeek": 2501,
     "timeMonth": 2240,
     "timeYear": 2338,
     "dailyMinutesDown": {
