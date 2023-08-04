@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 781,
-    "timeDay": 793,
+    "timeDay": 794,
     "timeWeek": 798,
     "timeMonth": 804,
     "timeYear": 781,
@@ -60,7 +60,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2333,
-    "timeDay": 2787,
+    "timeDay": 3004,
     "timeWeek": 2301,
     "timeMonth": 2282,
     "timeYear": 2332,
@@ -69,8 +69,7 @@
       "2023-01-25": 12,
       "2022-12-01": 20,
       "2022-08-18": 11,
-      "2022-08-17": 20,
-      "2022-08-04": 4
+      "2022-08-17": 20
     }
   }
 ]
