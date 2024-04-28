@@ -5,18 +5,18 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
     "time": 860,
     "timeDay": 846,
     "timeWeek": 884,
     "timeMonth": 903,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-04-28": 8,
+      "2024-04-28": 42,
       "2023-11-01": 33,
       "2023-09-24": 118
     }
@@ -27,10 +27,10 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 147,
     "timeDay": 143,
@@ -38,7 +38,7 @@
     "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-04-28": 9,
+      "2024-04-28": 42,
       "2023-11-01": 33,
       "2023-09-24": 104
     }
@@ -48,19 +48,19 @@
     "url": "https://api.hackmd.io/health",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2380,
-    "timeDay": 2489,
-    "timeWeek": 2706,
-    "timeMonth": 2530,
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 2379,
+    "timeDay": 2423,
+    "timeWeek": 2695,
+    "timeMonth": 2528,
     "timeYear": 2379,
     "dailyMinutesDown": {
-      "2024-04-28": 1
+      "2024-04-28": 33
     }
   }
 ]
