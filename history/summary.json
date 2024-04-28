@@ -6,9 +6,9 @@
     "slug": "hack-md",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 860,
     "timeDay": 846,
@@ -16,7 +16,7 @@
     "timeMonth": 903,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-04-28": 0,
+      "2024-04-28": 5,
       "2023-11-01": 33,
       "2023-09-24": 118
     }
@@ -28,9 +28,9 @@
     "slug": "hack-md-realtime",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 147,
     "timeDay": 143,
@@ -38,7 +38,7 @@
     "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-04-28": 1,
+      "2024-04-28": 5,
       "2023-11-01": 33,
       "2023-09-24": 104
     }
