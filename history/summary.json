@@ -4,18 +4,19 @@
     "url": "https://hackmd.io",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 860,
-    "timeDay": 851,
-    "timeWeek": 883,
-    "timeMonth": 904,
+    "timeDay": 846,
+    "timeWeek": 884,
+    "timeMonth": 903,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2024-04-28": 0,
       "2023-11-01": 33,
       "2023-09-24": 118
     }
@@ -25,10 +26,10 @@
     "url": "https://hackmd.io/realtime-reg/statusAll",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 147,
@@ -37,6 +38,7 @@
     "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2024-04-28": 1,
       "2023-11-01": 33,
       "2023-09-24": 104
     }
@@ -53,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2380,
-    "timeDay": 2129,
+    "timeDay": 2344,
     "timeWeek": 2687,
-    "timeMonth": 2518,
+    "timeMonth": 2525,
     "timeYear": 2379,
     "dailyMinutesDown": {}
   }
