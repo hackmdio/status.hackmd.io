@@ -6,9 +6,9 @@
     "slug": "hack-md",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 860,
     "timeDay": 846,
@@ -16,7 +16,7 @@
     "timeMonth": 903,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-04-28": 5,
+      "2024-04-28": 8,
       "2023-11-01": 33,
       "2023-09-24": 118
     }
@@ -28,9 +28,9 @@
     "slug": "hack-md-realtime",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 147,
     "timeDay": 143,
@@ -38,7 +38,7 @@
     "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-04-28": 5,
+      "2024-04-28": 9,
       "2023-11-01": 33,
       "2023-09-24": 104
     }
@@ -48,17 +48,19 @@
     "url": "https://api.hackmd.io/health",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2380,
-    "timeDay": 2344,
-    "timeWeek": 2687,
-    "timeMonth": 2525,
+    "timeDay": 2489,
+    "timeWeek": 2706,
+    "timeMonth": 2530,
     "timeYear": 2379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-28": 1
+    }
   }
 ]
