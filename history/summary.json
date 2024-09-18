@@ -4,7 +4,7 @@
     "url": "https://hackmd.io",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
@@ -16,6 +16,7 @@
     "timeMonth": 1011,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2024-09-18": 0,
       "2024-09-15": 56,
       "2024-09-13": 5,
       "2024-09-09": 7,
