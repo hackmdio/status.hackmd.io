@@ -1,7 +1,7 @@
 url: https://api.hackmd.io/health
-status: up
-code: 200
-responseTime: 848
-lastUpdated: 2025-02-26T21:02:42.710Z
+status: down
+code: 403
+responseTime: 775
+lastUpdated: 2025-02-26T22:02:48.915Z
 startTime: 2022-02-14T04:35:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
