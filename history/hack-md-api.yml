@@ -1,7 +1,7 @@
 url: https://api.hackmd.io/health
 status: down
-code: 504
-responseTime: 15832
-lastUpdated: 2025-08-27T05:03:45.997Z
+code: 503
+responseTime: 5958
+lastUpdated: 2025-08-27T06:04:07.351Z
 startTime: 2022-02-14T04:35:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
