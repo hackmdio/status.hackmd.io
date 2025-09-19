@@ -6,14 +6,14 @@
     "slug": "hack-md",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.17%",
     "time": 932,
-    "timeDay": 1008,
+    "timeDay": 978,
     "timeWeek": 968,
-    "timeMonth": 988,
+    "timeMonth": 989,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2025-09-17": 6,
@@ -60,8 +60,7 @@
       "2024-10-10": 2,
       "2024-10-08": 9,
       "2024-09-24": 9,
-      "2024-09-21": 2,
-      "2024-09-19": 9
+      "2024-09-21": 2
     }
   },
   {
@@ -122,13 +121,13 @@
     "slug": "hack-md-api",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.18%",
     "time": 2436,
-    "timeDay": 2688,
-    "timeWeek": 2355,
+    "timeDay": 2843,
+    "timeWeek": 2354,
     "timeMonth": 2704,
     "timeYear": 2431,
     "dailyMinutesDown": {
