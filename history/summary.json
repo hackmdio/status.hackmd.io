@@ -5,25 +5,17 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 912,
-    "timeDay": 752,
+    "timeDay": 749,
     "timeWeek": 792,
     "timeMonth": 835,
     "timeYear": 912,
-    "dailyMinutesDown": {
-      "2025-11-18": 10,
-      "2025-10-29": 52,
-      "2025-09-17": 6,
-      "2025-08-29": 9,
-      "2025-06-12": 160,
-      "2025-06-01": 23,
-      "2025-05-28": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HackMD Realtime",
@@ -31,23 +23,17 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 132,
     "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2026-04-16": 2,
-      "2026-04-15": 72,
-      "2025-10-22": 7,
-      "2025-06-12": 15,
-      "2025-06-03": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HackMD API",
@@ -55,25 +41,16 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2374,
-    "timeDay": 2089,
-    "timeWeek": 2517,
-    "timeMonth": 2399,
+    "timeDay": 2156,
+    "timeWeek": 2496,
+    "timeMonth": 2394,
     "timeYear": 2369,
-    "dailyMinutesDown": {
-      "2026-04-16": 2,
-      "2026-04-15": 107,
-      "2025-11-18": 10,
-      "2025-10-08": 3,
-      "2025-09-17": 6,
-      "2025-08-27": 220,
-      "2025-08-26": 8,
-      "2025-06-12": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
