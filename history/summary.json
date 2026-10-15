@@ -4,23 +4,23 @@
     "url": "https://hackmd.io",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 933,
-    "timeDay": 1566,
+    "timeDay": 1556,
     "timeWeek": 1396,
-    "timeMonth": 1163,
+    "timeMonth": 1164,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-10-29": 52,
       "2025-11-18": 10,
       "2026-07-16": 27,
       "2026-07-15": 42,
-      "2026-10-15": 0
+      "2026-10-15": 25
     }
   },
   {
