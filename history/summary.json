@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 943,
-    "timeDay": 1355,
-    "timeWeek": 1316,
+    "timeDay": 1351,
+    "timeWeek": 1317,
     "timeMonth": 1248,
     "timeYear": 943,
     "dailyMinutesDown": {
@@ -29,17 +29,20 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 583,
+    "timeDay": 578,
     "timeWeek": 524,
     "timeMonth": 522,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 2,
+      "2026-04-15": 72
+    }
   },
   {
     "name": "HackMD API",
@@ -47,16 +50,23 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1753,
-    "timeDay": 875,
+    "uptimeYear": "99.96%",
+    "time": 1752,
+    "timeDay": 872,
     "timeWeek": 963,
     "timeMonth": 953,
     "timeYear": 1742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 10,
+      "2026-04-15": 107,
+      "2026-04-16": 2,
+      "2026-06-10": 45,
+      "2026-06-15": 38,
+      "2026-07-25": 2
+    }
   }
 ]
