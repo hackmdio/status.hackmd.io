@@ -28,21 +28,21 @@
     "url": "https://hackmd.io/realtime-reg/statusAll",
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-realtime",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 303,
-    "timeDay": 524,
+    "timeDay": 522,
     "timeWeek": 539,
     "timeMonth": 523,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-04-16": 2,
       "2026-04-15": 72,
-      "2026-10-28": 1
+      "2026-10-28": 6
     }
   },
   {
